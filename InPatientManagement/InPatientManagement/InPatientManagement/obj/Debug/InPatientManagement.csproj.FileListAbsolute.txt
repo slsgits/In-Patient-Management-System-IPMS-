@@ -1,0 +1,56 @@
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe.config
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.pdb
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csprojResolveAssemblyReference.cache
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmScreen.resources
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.Properties.Resources.resources
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csproj.GenerateResource.Cache
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.exe
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.pdb
+c:\users\sls\documents\visual studio 2012\Projects\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.HomeScreen.resources
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe.config
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.pdb
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmScreen.resources
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.HomeScreen.resources
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.Properties.Resources.resources
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csproj.GenerateResource.Cache
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.exe
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.pdb
+D:\MCA\IPMS\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csprojResolveAssemblyReference.cache
+E:\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe.config
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.exe
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.pdb
+E:\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe
+E:\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.pdb
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csprojResolveAssemblyReference.cache
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmScreen.resources
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.HomeScreen.resources
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.Properties.Resources.resources
+E:\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csproj.GenerateResource.Cache
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe.config
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.pdb
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmScreen.resources
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\ESTIMAZER.frmHelp.resources
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmLogin.resources
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.HomeScreen.resources
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.Properties.Resources.resources
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csproj.GenerateResource.Cache
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.exe
+D:\IPMS\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.pdb
+D:\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe.config
+D:\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.exe
+D:\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.pdb
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe.config
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.exe
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.pdb
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csprojResolveAssemblyReference.cache
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmScreen.resources
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\ESTIMAZER.frmHelp.resources
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.frmLogin.resources
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.HomeScreen.resources
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.Properties.Resources.resources
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\obj\Debug\InPatientManagement.csproj.GenerateResource.Cache
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.exe
+C:\Users\samstaff\Documents\History\DOCS\IPMS FINAL\InPatientManagement\InPatientManagement\InPatientManagement\bin\Debug\InPatientManagement.pdb
